@@ -1,2 +1,2 @@
 login_ip: login
-char_ip: host.docker.internal
+char_ip: localhost
